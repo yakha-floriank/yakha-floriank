@@ -42,10 +42,17 @@ Dateien verschieben/ Umbenennen:
 
 Dateien ignorieren:  `.gitignore`
 
+Anzeigen von  Unstaged und Staged Changes: 
+`git diff --staged`
 
 
 
 
+1. 3 Phasen PD SA GR
+2. geringe unterschiede, meist nur im design, Freischaltung durch Pro versionen,  Seiten: github, gitlab
+3. Update der änderung mit kommentar
+4. Historie/Verlauf, Teamarbeit,
+5. snippet eines codes der schneller geteilt werden kann
 
   
 
